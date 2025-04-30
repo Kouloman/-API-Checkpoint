@@ -18,6 +18,7 @@ Filtrer les films avec le titre/la note.
 ├── App.js
 ├── components/
 │ ├── MovieCard.js
+  ├── MovieDescription.js
 │ ├── MovieList.js
 │ └── Filter.js
 └── index.js
